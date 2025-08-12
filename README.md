@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cadutard
-- 👀 I’m interested in Cyber Security
-- 🌱 I’m currently learning Cyber Security
-- 💞️ I’m looking to collaborate on Cyber Security
+- 👀 I’m interested in AI
+- 🌱 I’m currently learning AI
+- 💞️ I’m looking to collaborate on AI
 - 📫 How to reach me cadu.tardivo@gmail.com
 - 😄 Pronouns: him
 - ⚡ Fun fact: Bazinga!
